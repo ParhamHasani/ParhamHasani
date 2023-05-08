@@ -21,7 +21,7 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/parhamhasani/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	
-        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/parham_Hasani">
+        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/parham_Hasani/">
 		<img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"></a>
 	
 	   
