@@ -14,7 +14,20 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
 - 📫 ParhamParham01@gmail.com
 - 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">Resume</a>
 
-<h2 align="center" > Connect with me </h2>
+   
+<h2 align="center" > Websites </h2>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+<a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wixsite.com/aboutme">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/4.png?raw=true"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://parhamnotes.blogspot.com/">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/2.png?raw=true"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://sites.google.com/view/neuroai">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/3.png?raw=true"></a>
+ <a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wordpress.com/">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/1.png?raw=true"></a>
+  </div>
+  
+  <h2 align="center" > Connect with me </h2>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/parhamhasani/">
@@ -28,18 +41,6 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
 	<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/Parham.HasaniAI">
 		<img src="https://img.icons8.com/doodle/60/000000/facebook--v2.png"></a>
       </div>
-   
-<h2 align="center" > Websites </h2>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-<a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wixsite.com/aboutme">
-	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/4.png?raw=true"></a>
-<a style="margin-left: 10px;"  target="_blank" href="https://parhamnotes.blogspot.com/">
-	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/2.png?raw=true"></a>
-<a style="margin-left: 10px;"  target="_blank" href="https://sites.google.com/view/neuroai">
-	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/3.png?raw=true"></a>
- <a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wordpress.com/">
-	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/1.png?raw=true"></a>
-  </div>
 
 <!--
 **ParhamHasani/ParhamHasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
