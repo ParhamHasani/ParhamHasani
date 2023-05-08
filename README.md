@@ -30,7 +30,9 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
       </div>
    
 <h2 align="center" > Websites </h2>
-
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <a style="margin-left: 10px;"  target="_blank" href="https://parhamnotes.blogspot.com/">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/Blog.png?raw=true"></a>
 
 <!--
 **ParhamHasani/ParhamHasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
