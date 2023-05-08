@@ -12,8 +12,7 @@ Parham Hasani is an MSc student in AI & neuroscience enthusiast. Also, he earned
 Parham focuses on machine learning applications in neuroscience.
 Specifically, this involves deep learning approaches in the diagnosis and prediction of neurodegenerative disorder symptoms by using magnetic resonance imaging.
 
-- 📫Email  address: ParhamParham01@gmail.com
-- 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">Resume</a>
+
 
 <h2 align="center" > Connect with me </h2>
 
@@ -29,7 +28,8 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
 	<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/Parham.HasaniAI">
 		<img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png"></a>
       </div>
-
+- 📫Email  address: ParhamParham01@gmail.com
+- 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">Resume</a>
 <!--
 **ParhamHasani/ParhamHasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
