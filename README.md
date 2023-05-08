@@ -14,7 +14,7 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
 
 - 🌱 I’m currently learning **How to learn**
 -  📫 My Email  address: ParhamParham01@gmail.com
--  <a href=["https://github.com/ParhamHasani](https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing)" target="blank">my Resume</a>
+-  <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">my Resume</a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
