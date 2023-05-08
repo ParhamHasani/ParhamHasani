@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/ParhamHasani" target="blank">
+<h1 align="center"><a href="https://github.com/ParhamHasani" target="blank">
 Parham Hasani</a></h1>
+
 <h3 align="center">MSc student in AI & neuroscience enthusiast.</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <!--
 **ParhamHasani/ParhamHasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
