@@ -12,7 +12,6 @@ Parham Hasani is an MSc student in AI & neuroscience enthusiast. Also, he earned
 Parham focuses on machine learning applications in neuroscience.
 Specifically, this involves deep learning approaches in the diagnosis and prediction of neurodegenerative disorder symptoms by using magnetic resonance imaging.
 
-- 🌱 I’m currently learning **How to learn**
 - 📫 My Email  address: ParhamParham01@gmail.com
 - 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">My Resume</a>
 
