@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://github.com/ParhamHasani" target="blank">
-Parham Hasani</a></h1>
+<h2 align="center"><a href="https://github.com/ParhamHasani" target="blank">
+Parham Hasani</a></h2>
 
 <h4 align="center">MSc student in AI & neuroscience enthusiast.</h4>
 
