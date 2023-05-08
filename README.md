@@ -16,7 +16,7 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
 - 📫 My Email  address: ParhamParham01@gmail.com
 - 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">My Resume</a>
 
-<h3 align="center" > **Connect with me**  </h3>
+<h2 align="center" > Connect with me </h2>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/parhamhasani/">
