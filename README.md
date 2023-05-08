@@ -31,8 +31,14 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
    
 <h2 align="center" > Websites </h2>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://parhamnotes.blogspot.com/">
+<a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wixsite.com/aboutme">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/4.png?raw=true"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://parhamnotes.blogspot.com/">
 	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/2.png?raw=true"></a>
+<a style="margin-left: 10px;"  target="_blank" href="https://sites.google.com/view/neuroai">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/3.png?raw=true"></a>
+ <a style="margin-left: 10px;"  target="_blank" href="https://parhamhasani.wordpress.com/">
+	<img src="https://github.com/ParhamHasani/ParhamHasani/blob/main/1.png?raw=true"></a>
   </div>
 
 <!--
