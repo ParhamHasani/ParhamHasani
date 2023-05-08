@@ -30,9 +30,7 @@ Specifically, this involves deep learning approaches in the diagnosis and predic
       </div>
       
 - 📫Email  address: ParhamParham01@gmail.com
-- 
 - 📃 <a href="https://drive.google.com/file/d/17VJxBU3-gWa2n0KT-hszeRmyub-vFcsB/view?usp=sharing" target="blank">Resume</a>
-- 
 <!--
 **ParhamHasani/ParhamHasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
