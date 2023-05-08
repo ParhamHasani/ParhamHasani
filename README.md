@@ -4,7 +4,7 @@ Parham Hasani</a></h2>
 <h4 align="center">MSc student in AI & neuroscience enthusiast.</h4>
 
 <a target="_blank" align="center">
-  <img align="right" top="450" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 Parham Hasani is an MSc student in AI & neuroscience enthusiast. Also, he earned a bachelor’s degree in computer science from the University of Tabriz. He has teaching assistance experience in university-level courses in computer science and mathematics.
